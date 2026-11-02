@@ -1,0 +1,20 @@
+data/
+__pycache__/
+.venv/
+*.log
+.qa/
+
+# Working previews and generated review files (kept locally)
+/tmp/
+/qr-demo/
+/*.png
+/*.jpg
+/*.jpeg
+/*.webp
+/output/**/*_before_reference_revision.*
+
+# Private payment QR and local credentials
+/assets/bank-qr-*
+.env
+.env.*
+!.env.example

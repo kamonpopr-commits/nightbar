@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\TUF GAMING\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+  "terminal.integrated.profiles.windows": {
+    "Nightbar Command Prompt": {"path": "${env:windir}\\System32\\cmd.exe"}
+  },
+  "terminal.integrated.defaultProfile.windows": "Nightbar Command Prompt"
+}

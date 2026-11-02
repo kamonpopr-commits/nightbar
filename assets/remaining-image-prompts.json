@@ -1,0 +1,35 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "lager",
+      "prompt": "Use case: product-mockup. Asset type: square menu photograph for JUPITER Bar & Kitchen. Subject: One clear chilled 330 ml glass bottle of pale golden lager with a small plain cream unprinted label, accompanied by a short clear glass of golden beer with white foam. Bottle is the hero. Scene: dark forest green bar background softly out of focus, dark wooden tabletop, subtle warm amber bokeh. Style: realistic professional beverage photography matching an upscale Thai bar menu, warm side lighting, natural condensation and detailed materials. Composition: single centered product arrangement, fully visible with comfortable margins, camera slightly above table at 35 degrees, square 1:1. No people, no hands, no writing, no logos, no watermark, no border, no collage. Photo is illustrative, no invented brand.",
+      "source": "C:\\Users\\TUF GAMING\\.codex\\generated_images\\01a134a8-7159-7632-8604-a88a51dc574e\\exec-f1958c75-3ddb-4f19-a19e-e42cf43ac6e2.png"
+    },
+    {
+      "name": "craft-ipa",
+      "prompt": "Use case: product-mockup. Asset type: square menu photograph for JUPITER Bar & Kitchen. Subject: A tulip beer glass filled with rich golden amber craft IPA with fine foam, next to one plain unbranded 330 ml dark amber beer bottle with a blank cream label. Visually distinct from pale lager. Scene: dark forest green bar background softly out of focus, dark wooden tabletop, subtle warm amber bokeh. Style: realistic professional beverage photography matching an upscale Thai bar menu, warm side lighting, natural condensation and detailed materials. Composition: single centered product arrangement, fully visible with comfortable margins, camera slightly above table at 35 degrees, square 1:1. No people, no hands, no writing, no logos, no watermark, no border, no collage. Photo is illustrative, no invented brand.",
+      "source": "C:\\Users\\TUF GAMING\\.codex\\generated_images\\01a134a8-7159-7632-8604-a88a51dc574e\\exec-3e7f3c20-a0d2-4ac1-b4dd-1ce17f605705.png"
+    },
+    {
+      "name": "whisky",
+      "prompt": "Use case: product-mockup. Asset type: square menu photograph for JUPITER Bar & Kitchen. Subject: One elegant unbranded 700 ml clear whisky bottle filled with amber whisky, simple rectangular blank cream label and dark cap, next to a low rocks glass with a little whisky and a large clear ice cube. Scene: dark forest green bar background softly out of focus, dark wooden tabletop, subtle warm amber bokeh. Style: realistic professional beverage photography matching an upscale Thai bar menu, warm side lighting, natural condensation and detailed materials. Composition: single centered product arrangement, fully visible with comfortable margins, camera slightly above table at 35 degrees, square 1:1. No people, no hands, no writing, no logos, no watermark, no border, no collage. Photo is illustrative, no invented brand.",
+      "source": "C:\\Users\\TUF GAMING\\.codex\\generated_images\\01a134a8-7159-7632-8604-a88a51dc574e\\exec-159d65e2-9c43-4928-a509-145aec67b168.png"
+    },
+    {
+      "name": "drinking-water",
+      "prompt": "Use case: product-mockup. Asset type: square menu photograph for JUPITER Bar & Kitchen. Subject: One sealed clear drinking water bottle with a plain blank white label and white cap, accompanied by one clean clear tumbler of still water. Fresh condensation, transparent colorless water. Scene: dark forest green bar background softly out of focus, dark wooden tabletop, subtle warm amber bokeh. Style: realistic professional beverage photography matching an upscale Thai bar menu, warm side lighting, natural condensation and detailed materials. Composition: single centered product arrangement, fully visible with comfortable margins, camera slightly above table at 35 degrees, square 1:1. No people, no hands, no writing, no logos, no watermark, no border, no collage. Photo is illustrative, no invented brand.",
+      "source": "C:\\Users\\TUF GAMING\\.codex\\generated_images\\01a134a8-7159-7632-8604-a88a51dc574e\\exec-6e542dfd-8874-441f-80c8-02986a744fbe.png"
+    },
+    {
+      "name": "soda-water",
+      "prompt": "Use case: product-mockup. Asset type: square menu photograph for JUPITER Bar & Kitchen. Subject: One small sealed clear glass soda water bottle with plain blank label and metal cap, accompanied by a clear glass of colorless sparkling soda water with visible fine bubbles. No fruit, no colored liquid. Scene: dark forest green bar background softly out of focus, dark wooden tabletop, subtle warm amber bokeh. Style: realistic professional beverage photography matching an upscale Thai bar menu, warm side lighting, natural condensation and detailed materials. Composition: single centered product arrangement, fully visible with comfortable margins, camera slightly above table at 35 degrees, square 1:1. No people, no hands, no writing, no logos, no watermark, no border, no collage. Photo is illustrative, no invented brand.",
+      "source": "C:\\Users\\TUF GAMING\\.codex\\generated_images\\01a134a8-7159-7632-8604-a88a51dc574e\\exec-e6d96c1c-5c8c-4a16-9d67-a0aa0327a8df.png"
+    },
+    {
+      "name": "ice-bucket",
+      "prompt": "Use case: product-mockup. Asset type: square menu photograph for JUPITER Bar & Kitchen. Subject: One polished stainless steel restaurant tabletop ice bucket filled with clean crystalline irregular ice cubes, small stainless ice tongs resting neatly against the rim. Ice bucket clearly the only hero product. Scene: dark forest green bar background softly out of focus, dark wooden tabletop, subtle warm amber bokeh. Style: realistic professional beverage photography matching an upscale Thai bar menu, warm side lighting, natural condensation and detailed materials. Composition: single centered product arrangement, fully visible with comfortable margins, camera slightly above table at 35 degrees, square 1:1. No people, no hands, no writing, no logos, no watermark, no border, no collage. Photo is illustrative, no invented brand.",
+      "source": "C:\\Users\\TUF GAMING\\.codex\\generated_images\\01a134a8-7159-7632-8604-a88a51dc574e\\exec-c0199095-fdef-4249-9ae6-6b5241082e36.png"
+    }
+  ]
+}

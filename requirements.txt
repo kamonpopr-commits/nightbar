@@ -1,0 +1,3 @@
+# The QR library is also included in vendor/ for offline startup.
+qrcode==8.2
+Pillow==12.3.0

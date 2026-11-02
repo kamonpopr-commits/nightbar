@@ -1,0 +1,4 @@
+{
+  "version": "0.2.0",
+  "configurations": [{"name": "Run NIGHTBAR", "type": "debugpy", "request": "launch", "python": "C:\\Users\\TUF GAMING\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe", "program": "${workspaceFolder}/app.py", "args": ["--open"], "console": "integratedTerminal", "justMyCode": true}]
+}
